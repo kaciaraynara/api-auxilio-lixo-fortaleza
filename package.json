@@ -1,0 +1,22 @@
+{
+  "name": "api-auxilio-fortaleza",
+  "version": "1.0.0",
+  "description": "API para auxílio a pessoas em situação de rua em Fortaleza, CE.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  }
+}
+
+
