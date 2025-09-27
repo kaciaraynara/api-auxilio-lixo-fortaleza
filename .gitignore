@@ -1,0 +1,6 @@
+/node_modules
+/dist
+# Ignorar a pasta de dependências do Node node_modules/
+# Ignorar arquivos de ambiente (que contêm senhas).env
+
+)
